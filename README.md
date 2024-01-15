@@ -2,7 +2,7 @@
 
 ## Contacto 📞
 
-- **Email:** chsotelogut@gmail.com
+- **Email:** christian.sotelo.tech@gmail.com
 - **Teléfono:** (+51) 935 502 067
 - **LinkedIn:** Christian Sotelo Gut
 
@@ -62,7 +62,7 @@ Soy una persona que aprende rápidamente, se adapta a las necesidades y disfruta
 
 ## Experiencia 🛠️
 
-### Ebbiner, Freelance — Agosto 2022 - Presente
+### Ebbiner, React developer — Agosto 2022 - Presente
 
 - Desarrollé componentes React estilizados con Styled Components.
 - Implementé funcionalidades con interacción de la base de datos.
