@@ -4,7 +4,7 @@
 
 - **Email:** christian.sotelo.tech@gmail.com
 - **Teléfono:** (+51) 935 502 067
-- **LinkedIn:** Christian Sotelo Gut
+- **LinkedIn:** [christian Sotelo Gut](https://www.linkedin.com/in/christian-sotelo-gut/)
 
 ## Acerca de mí 🚀
 
@@ -16,10 +16,6 @@ Soy una persona que aprende rápidamente, se adapta a las necesidades y disfruta
   - Huamanga, Ayacucho
   - Ingeniería de Sistemas, Julio 2023
 
-## Logros 🏆
-
-- Co-fundador de Ebbiner S.A.C.
-
 ## Habilidades Técnicas 💻
 
 ### Lenguajes de Programación
@@ -30,8 +26,9 @@ Soy una persona que aprende rápidamente, se adapta a las necesidades y disfruta
 
 ### Frameworks y Herramientas
 
-- **Avanzado:** React.js
-- **Intermedio:** Angular.js, Vue.js
+- **Avanzado:** React.js, NextJs
+- **Intermedio:** Astro
+- **Básico:** Angular.js, Vue.js
 
 ### Base de Datos
 
@@ -43,22 +40,15 @@ Soy una persona que aprende rápidamente, se adapta a las necesidades y disfruta
 
 - **Avanzado:** Scrum
 
-### Paquete Office
-
-- **Avanzado:** Word, Power Point
-- **Intermedio:** Excel
-
 ## Otras Herramientas
 
-- **Avanzado:** PowerBI
-- **Intermedio:** JIRA, Trello, Slack
+- **Intermedio:** JIRA, Trello, Slack, PowerBI
 
 ## Idiomas 🌐
 
-- **Avanzado:** Español
+- **Avanzado:** Español, Quechua
 - **Intermedio:** Inglés
 - **Básico:** Frances
-- **Nativo:** Quechua
 
 ## Experiencia 🛠️
 
